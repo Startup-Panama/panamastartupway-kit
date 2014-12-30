@@ -43,7 +43,9 @@ Un Kit donde encontraras referencias y tutoriales guiado a ayudarte a emprender 
 #### Growth Hacking: Mercadeo Digital
 ---
 - [Growth Hacking, Wikipedia](http://en.wikipedia.org/wiki/Growth_hacking)
+
 #### Fondos de Inversion
 ---
+
 #### Software Outsourcing - Reclutamiento
 ---

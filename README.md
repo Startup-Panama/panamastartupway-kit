@@ -6,6 +6,15 @@ Un Kit donde encontraras referencias y tutoriales guiado a ayudarte a emprender 
 #### Agile y metodologias
 ---
 - [Scaling Agile Across the Enterprise, Microsoft](http://stories.visualstudio.com/scaling-agile-across-the-enterprise/)
+- [Agile Project Management, InfoQ](http://www.infoq.com/minibooks/emag-agile-project-management)
+- [Agile Estimation, InfoQ](http://www.infoq.com/minibooks/emag-agile-estimation)
+- [Lean y Kanban, InfoQ](http://www.infoq.com/minibooks/emag-lean-kanban)
+- [Getting Value out of Agile Retrospectives, Second Edition, InfoQ](http://www.infoq.com/minibooks/agile-retrospectives-value)
+- [Introducción a la certificación PMI-ACP, Angel Agueda](https://www.youtube.com/watch?v=u7ixUoEsZdw)
+- [Que es Scrum?](http://www.proyectosagiles.org/que-es-scrum)
+- [Tutoriales de Scrum: "Manifiesto Ágil - Valores", Kleer](https://www.youtube.com/watch?v=ZMFaUvJTW-4)
+- [Scrum Intro, Hamid Shojaee](https://www.youtube.com/watch?v=flZhGsYDOxw)
+- [Administración de proyectos con Trello, Kanban, Scrum, Néstor Ávalos](https://www.youtube.com/watch?v=DWhPcDS076Y)
 
 
 #### Cultura Startup
@@ -16,7 +25,7 @@ Un Kit donde encontraras referencias y tutoriales guiado a ayudarte a emprender 
 #### Ideas, Productos y MVPs
 ---
 - [Hooked: How to Build Habit-Forming Products, Nir Eyal](http://www.nirandfar.com/hooked)
-
+- [First Round Lista de Correo](http://firstround.com/)
 
 #### Stacks de Tecnologias
 ---

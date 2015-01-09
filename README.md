@@ -35,6 +35,7 @@ Un Kit donde encontraras referencias y tutoriales guiado a ayudarte a emprender 
   - [Django](https://www.djangoproject.com/)
   - [Hapi](http://hapijs.com/)
   - [ASP.NET MVC](http://www.asp.net/mvc)
+  - [Linux, Apache, MariaDB, PHP (Servidor LAMP, configuración)](http://drivemeca.blogspot.com/2014/07/15-minutos-para-configurar-un-linux.html)
 
 - Frontend
   - [Angular](https://angularjs.org/)

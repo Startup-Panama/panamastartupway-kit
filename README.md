@@ -36,6 +36,7 @@ Un Kit donde encontraras referencias y tutoriales guiado a ayudarte a emprender 
   - [Hapi](http://hapijs.com/)
   - [ASP.NET MVC](http://www.asp.net/mvc)
   - [Linux, Apache, MariaDB, PHP (Servidor LAMP, configuración)](http://drivemeca.blogspot.com/2014/07/15-minutos-para-configurar-un-linux.html)
+  - [NodeJS](https://manukorp.wordpress.com/2013/09/05/instalar-node-js-en-centos/)
 
 - Frontend
   - [Angular](https://angularjs.org/)
@@ -46,6 +47,8 @@ Un Kit donde encontraras referencias y tutoriales guiado a ayudarte a emprender 
 - Base de datos
   - NoSql
     - [MongoDB](http://www.mongodb.org/)
+    - [Hadoop](http://hadoop.apache.org/)
+    - [Cassandra](http://cassandra.apache.org/)
   - Relacional
     - [MySql](http://www.mysql.com/)
     - [MariaDB](https://mariadb.org/)

@@ -48,6 +48,8 @@ Un Kit donde encontraras referencias y tutoriales guiado a ayudarte a emprender 
     - [MongoDB](http://www.mongodb.org/)
   - Relacional
     - [MySql](http://www.mysql.com/)
+    - [MariaDB](https://mariadb.org/)
+    - [Postgresql](http://www.postgresql.org/)
   - Otros
   
 #### Growth Hacking: Mercadeo Digital

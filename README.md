@@ -33,7 +33,7 @@ Un Kit donde encontraras referencias y tutoriales guiado a ayudarte a emprender 
 - [Startup Class: How to Build Products Users Love - Kevin Hale](http://startupclass.samaltman.com/courses/lec07/)
 - [Startup Class: Doing Things That Don't Scale - Walker Williams (Primera lectura del video)](http://startupclass.samaltman.com/courses/lec08/)
 - [Minimum Viable Product - Eric Ries](http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html)
--[Startup Lab workshop: A/B testing done right](https://www.youtube.com/watch?v=Eh00PoR76NY)
+- [Startup Lab workshop: A/B testing done right](https://www.youtube.com/watch?v=Eh00PoR76NY)
 - [Hooked: How to Build Habit-Forming Products, Nir Eyal](http://www.nirandfar.com/hooked)
 - [Inspired: How To Create Products Customers Love - Marty Cagan](http://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408)
 - [Product/Market Fit - Marc Andreessen](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
